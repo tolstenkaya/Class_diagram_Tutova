@@ -1,0 +1,32 @@
+31
+1. Pizza Margarita -- $5.75
+2. Pizza Capricciosa -- $5.5
+3. 4 cheeses -- $7
+4. Pizza Marinara -- $5
+5. Pepperoni pizza -- $6.4
+6. Seafood pizza -- $6.8
+7. Pasta Carbonara -- $5.25
+8. Pasta Bolognese -- $6.9
+9. Campanelle with tuna and vegetables -- $8
+10. Pasta with pesto cream sause -- $6.4
+11. Minestrone -- $6
+12. Chicken soup -- $5.7
+13. Mushroom cream soup -- $5
+14. Pumpkin puree soup -- $5.2
+15. Salad 'Greek -- $6.3
+16. 'Caesar' salad with chicken breast -- $7.5
+17. Salmon carpaccio -- $7.25
+18. Tuna tartare with avocado -- $6.9
+19. Camembert with lingonberry sause -- $7
+20. Curly Pinscher -- $4.7
+21. Cheesecake 'New York' -- $4.25
+22. Panna-cotta -- $4
+23. Tiramisu -- $4.85
+24. Green tea -- $1.5
+25. Fruit tea -- $1.75
+26. Espresso -- $2
+27. Americano -- $2.25
+28. Cappucino -- $2.15
+29. Cocoa -- $2.5
+30. Juice in assortment -- $1.9
+31. sushi -- $2.3
